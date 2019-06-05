@@ -1,0 +1,16 @@
+espvieH PNB/h VIH% Natalit√© Mortalit√© mort_infant Fecondit√©
+B√©nin 49 920 2.5 45 15 94 6.3
+Burkina 47 960 6.4 47 17 105 6.8
+Cote_d'Ivoire 45 1540 10.8 36 16 112 5.2
+Gambie 51 1550 2 43 14 82 5.9
+Ghana 56 1850 3.6 32 10 56 4.3
+Guin√©e 43 1870 1.5 41 19 98 5.5
+Guin√©e-Bissau 44 630 2.5 42 20 131 5.8
+Liberia 49 1500 2.8 49 17 139 6.6
+Mali 45 740 2 50 20 123 7
+Mauritanie 49 1550 1.5 43 15 106 6
+Niger 41 740 1.4 53 24 123 7.5
+Nigeria 52 770 5.1 41 14 75 5.8
+S√©n√©gal 51 1400 1.8 41 13 68 5.7
+Sierra_Leone 42 440 3 47 20 153 6.3
+Togo 53 1380 6 40 11 80 5.8
